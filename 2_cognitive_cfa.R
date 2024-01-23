@@ -270,9 +270,6 @@ temp<-subset(mydata, Speed != "NaN", c="Speed" )
 rm(temp)
 # n=664 have complete data after CFA
 
-# ## Check output
-# head(mydata$Crystallized)
-
 # #------------------------------------------------------------------------------#
 ### Save data
 
