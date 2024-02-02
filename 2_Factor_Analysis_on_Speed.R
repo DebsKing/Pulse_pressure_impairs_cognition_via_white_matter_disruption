@@ -13,6 +13,15 @@ library(ggplot2)
 library(GGally)
 library(semPlot)
 
+
+## Load dataframe 
+
+# Contains observations and calculated latent factors from previous anlaysis,
+# as detailed: https://www.nature.com/articles/s41598-022-27252-1. 
+
+# Also contains PSMD values, calculated following the shell script: http://www.psmd-marker.com, 
+# and using a Cam-CAN cohort specific FA mask for cortical (and not sub-cortical) regions.
+
 mydata <- readRDS("/.../1_mydata.rds")
 
 #------------------------------------------------------------------------------#
