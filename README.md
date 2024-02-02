@@ -1,0 +1,12 @@
+R scripts accompanying the analysis, which will be soon be submitted as a pre-print paper:
+
+King et al., 2024. Pulse Pressure Impairs Cognition Via White Matter Disruption. 
+
+In the Cambridge Centre for Ageing and Neuroscience study cohort: www.cam-can.org.
+
+
+ANALYSIS SUMMARY:
+We previously found that pulse pressure predicted decline from expected cognitive performance. See: https://www.nature.com/articles/s41598-022-27252-1, https://github.com/DebsKing/Distinct_Vascular_Components_Relate_To_Cognition 
+Here, we built on this by hypothesizing that the effects of pulse pressure on cognition are partly explained by disruption to white matter microstructure. Importantly, we hypothesized that pulse pressure relates to white matter integrity independently of steady state blood pressure and heart rate variability. We found that white matter microstructure impairment mediates the effect of pulse pressure onto cognition. We suggest that better managing pulse pressure may help to preserve cognitive abilities throughout life. These findings were presented by Deborah King at the British Neuroscience Association's 2023 conference, and at the Aging and Brain Health 2023 conference of the Rotman Research Institute. 
+
+Each script performs a separate step in the analysis. Scripts should be followed in the order of 1, 2, 3 etc. 
